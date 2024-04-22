@@ -103,5 +103,9 @@ h3 {
 }
 
 @media (max-width:375px) {
-    
+    .heading-container {
+        display: flex;
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
 }
