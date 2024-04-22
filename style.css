@@ -67,8 +67,6 @@ h3 {
     display: grid;
     text-align: left;
     padding: 40px;
-
-
 }
 
 .container img {
@@ -102,4 +100,8 @@ h3 {
 
 .attribution a {
     color: hsl(228, 45%, 44%); 
+}
+
+@media (max-width:375px) {
+    
 }
